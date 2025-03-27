@@ -29,3 +29,9 @@ insert into student (id,name,isActive,mark,subject) values
 (6,'user6',false,73,'sub3')
 
 
+
+insert into student (id,name,isActive,mark,subject) values 
+(5,'user5',false,53,'sub2'),
+(6,'user6',false,73,'sub3')
+
+
